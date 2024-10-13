@@ -5,8 +5,6 @@
 Mi pasión es automatizar procesos para optimizar el tiempo y visualizar de manera atractiva las ideas que tengo en mente. Disfruto desarrollando soluciones de machine learning que permiten a las máquinas realizar tareas humanas, impulsando la eficiencia y llevando la automatización a un nuevo nivel.
  
 ---
- 
-- 📫 Como Contactarme **mauricioarcez23@gmail.com**
 
 <h3 align="left">Tecnologias que utilizo:</h3>
 

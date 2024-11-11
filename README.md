@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauricioarcez&label=Profile%20views&color=0e75b6&style=flat" alt="mauricioarcez" /> </p>
 <h1 align="center">Hola 👋, Soy Mauricio Arce</h1>
 
-<h3 align="center">Data Scientist | Data Visualization | AI Enthusiastic</h3>
-Mi pasión es automatizar procesos para optimizar el tiempo y visualizar de manera atractiva las ideas que tengo en mente. Disfruto desarrollando soluciones de machine learning que permiten a las máquinas realizar tareas humanas, impulsando la eficiencia y llevando la automatización a un nuevo nivel.
+<h3 align="center">Data Engineer | Data Visualization | AI Enthusiastic</h3>
+Mi pasión es automatizar procesos para optimizar el tiempo y visualizar de manera atractiva las ideas que tengo en mente. Disfruto desarrollando soluciones de machine learning que permiten predecir resultados, impulsando la eficiencia y llevando la automatización a un nuevo nivel.
  
 ---
 

@@ -61,7 +61,7 @@ Mi pasión es automatizar procesos para optimizar el tiempo y visualizar de mane
 
 ## Contacto
 
-Estoy entusiasmado por compartir mis conocimientos y experiencia en ciencia de datos. Mi objetivo es transformar datos en decisiones significativas, y siempre estoy abierto a nuevas oportunidades y colaboraciones.
+Estoy entusiasmado por compartir mis conocimientos y experiencia en ciencia de datos. Mi objetivo es transformar datos en decisiones significativas, y siempre estoy abierto a nuevas oportunidades y colaboraciones. Puedes revisar mis proyectos fijados aqui abajo, o en la parte de repositorios.
 
 **¡No dudes en conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/mauricioarcez/) o enviarme un correo a [mauricioarcez23@gmail.com](mailto:mauricioarcez23@gmail.com)! Juntos, podemos hacer un impacto real en el mundo de los datos.**
 

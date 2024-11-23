@@ -17,7 +17,6 @@ Mi pasión es automatizar procesos para optimizar el tiempo y visualizar de mane
 - **Pandas**
 - **PySpark**
 - **NumPy**
-- **Django**
 
 ## Orquestación y Pipelines:
 - **Apache Airflow**
@@ -49,6 +48,8 @@ Mi pasión es automatizar procesos para optimizar el tiempo y visualizar de mane
 ## Soportes:
 - **Git**
 - **Linux**
+- **Django**
+- **FastApi**
 
 ## Contacto
 

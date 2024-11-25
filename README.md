@@ -17,6 +17,7 @@ Mi pasión es automatizar procesos para optimizar el tiempo y visualizar de mane
 - **Pandas**
 - **PySpark**
 - **NumPy**
+- **Excel**
 
 ## Orquestación y Pipelines:
 - **Apache Airflow**

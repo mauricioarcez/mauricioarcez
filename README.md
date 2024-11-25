@@ -11,12 +11,14 @@ Mi pasión es automatizar procesos para optimizar el tiempo y visualizar de mane
 ## Lenguajes:
 - **Python**
 - **SQL**
+- **DAX**
 - **CSS** 
 
 ## Procesamiento de datos:
 - **Pandas**
 - **PySpark**
 - **NumPy**
+- **PowerQuery**
 - **Excel**
 
 ## Orquestación y Pipelines:

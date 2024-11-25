@@ -29,7 +29,7 @@ Apasionado por desarrollar pipelines de datos eficientes, automatizar procesos y
 - **Scikit-learn** (Supervisado & No Supervisado)
 - **NLTK** (NPL)
 - **SpaCy** (NPL)
-- **HuggingFace** (NPL)
+- **Transformers** (NPL)
 
 ## Bases de Datos:
 - **PostgreSQL**

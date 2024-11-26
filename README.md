@@ -59,6 +59,6 @@ Apasionado por desarrollar pipelines de datos eficientes, automatizar procesos y
 
 Estoy entusiasmado por compartir mis conocimientos y experiencia en ciencia de datos. Mi objetivo es transformar datos en decisiones significativas, y siempre estoy abierto a nuevas oportunidades y colaboraciones. Puedes revisar mis proyectos fijados aqui abajo, o en la parte de repositorios.
 
-**¡No dudes en conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/mauricioarcez/) o enviarme un correo a [mauricioarcez23@gmail.com](mailto:mauricioarcez23@gmail.com)! Juntos, podemos hacer un impacto real en el mundo de los datos.**
+**¡No dudes en conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/mauricioarcez/), enviarme un correo a [mauricioarcez23@gmail.com](mailto:mauricioarcez23@gmail.com) o contactarme por [Celular](+543624822158)! Juntos, podemos hacer un impacto real en el mundo de los datos.**
 
 

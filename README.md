@@ -25,6 +25,10 @@ Apasionado por desarrollar pipelines de datos eficientes, automatizar procesos, 
 - **DataFlow**
 - **Excel**
 
+## Scraping:
+- **BeautifulSoup**
+- **Cloud Functions**
+
 ## Orquestación:
 - **Apache Airflow**
 

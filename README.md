@@ -27,6 +27,8 @@ Apasionado por desarrollar pipelines de datos eficientes, automatizar procesos, 
 
 ## Scraping:
 - **BeautifulSoup**
+- **Requests**
+- **Apis**
 - **Cloud Functions**
 
 ## Orquestación:

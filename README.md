@@ -61,6 +61,11 @@ Apasionado por desarrollar pipelines de datos eficientes, automatizar procesos, 
 - **Matplotlib**
 - **Plotly**
 
+## CI/CD Pipelines:
+- cloud build
+- cloud run
+- Github Actions
+
 ## Soportes:
 - **Git**
 - **Docker**

@@ -62,15 +62,18 @@ Apasionado por desarrollar pipelines de datos eficientes, automatizar procesos, 
 - **Plotly**
 
 ## CI/CD Pipelines:
-- cloud build
-- cloud run
-- Github Actions
-
-## Soportes:
-- **Git**
+**Git**
+- **cloud build**
+- **cloud run**
+- **Github Actions**
 - **Docker**
-- **Linux**
+- - **Linux**
+
+## Desarrollo:
 - **Django**
+- **Flask**
+- **Gunicorn**
+- **Redis**
 - **FastApi**
 
 ## Contacto

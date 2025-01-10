@@ -14,6 +14,7 @@ Apasionado por desarrollar pipelines de datos eficientes, automatizar procesos, 
 - **DAX**
 - **CSS**
 - **HTML**
+- **Javascript**
 
 ## Procesamiento de datos:
 - **Pandas**

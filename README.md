@@ -63,7 +63,7 @@ Apasionado por desarrollar pipelines de datos eficientes, automatizar procesos, 
 - **Plotly**
 
 ## CI/CD Pipelines:
-**Git**
+- **Git**
 - **cloud build**
 - **cloud run**
 - **Github Actions**

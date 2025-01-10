@@ -68,7 +68,7 @@ Apasionado por desarrollar pipelines de datos eficientes, automatizar procesos, 
 - **cloud run**
 - **Github Actions**
 - **Docker**
-- - **Linux**
+- **Linux**
 
 ## Desarrollo:
 - **Django**

@@ -18,7 +18,7 @@ Apasionado por desarrollar pipelines de datos eficientes, automatizar procesos, 
 
 ## Procesamiento de datos:
 - **Pandas**
-- **Spark**
+- **PySpark**
 - **SSMS**
 - **NumPy**
 - **PowerQuery**
@@ -31,6 +31,7 @@ Apasionado por desarrollar pipelines de datos eficientes, automatizar procesos, 
 - **Requests**
 - **Apis**
 - **Cloud Functions**
+- **Selenium**
 
 ## Orquestación:
 - **Apache Airflow**

@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, Soy Mauricio Arce</h1>
 
 <h3 align="center">Data Engineer | Data Visualization | AI Enthusiastic</h3>
-Apasionado por desarrollar pipelines de datos eficientes, automatizar procesos, optmizar al maximo las bases de datos y crear dashboards impactantes que convierten datos en decisiones estratégicas. Disfruto trabajando en proyectos de machine learning y NLP, con un enfoque en predecir resultados y mejorar la eficiencia operativa. Explora mis repositorios para descubrir soluciones de datos, aplicaciones web dinamicas, visualizaciones estadisticas y herramientas de IA.
+Apasionado por desarrollar pipelines de datos eficientes, automatizar procesos, optmizar al maximo las bases de datos y crear dashboards impactantes que convierten datos en decisiones estratégicas. Disfruto trabajando en transformaciones de datos y aplicando machine learning con NLP, con un enfoque en mejorar el procesamiento del texto. Explora mis repositorios para descubrir soluciones de datos, aplicaciones web dinamicas, visualizaciones estadisticas y procesamiento de lenguaje natural.
  
 ---
 

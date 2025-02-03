@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauricioarcez&label=Profile%20views&color=0e75b6&style=flat" alt="mauricioarcez" /> </p>
 <h1 align="center">Hola 👋, Soy Mauricio Arce</h1>
 
-<h3 align="center">Data Engineer | Data Analyst| AI Enthusiastic</h3>
+<h3 align="center">Data Engineer | Data Analyst | AI Enthusiastic</h3>
 Apasionado por desarrollar pipelines de datos eficientes, automatizar procesos, optmizar al maximo las bases de datos y crear dashboards impactantes que convierten datos en decisiones estratégicas. Disfruto trabajando en transformaciones de datos y aplicando machine learning con NLP, con un enfoque en mejorar el procesamiento del texto. Explora mis repositorios para descubrir soluciones de datos, aplicaciones web dinamicas, visualizaciones estadisticas y procesamiento de lenguaje natural.
  
 ---

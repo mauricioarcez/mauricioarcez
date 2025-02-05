@@ -14,27 +14,26 @@ Apasionado por desarrollar pipelines de datos eficientes, automatizar procesos, 
 - **DAX**
 - **CSS**
 - **HTML**
-- **Javascript**
 
 ## Procesamiento de datos:
 - **Pandas**
 - **PySpark**
-- **SSMS**
 - **NumPy**
 - **PowerQuery**
 - **Cloud Functions**
-- **DataFlow**
 - **Excel**
 
 ## Scraping:
 - **BeautifulSoup**
 - **Requests**
+- **Playwright**
 - **Apis**
-- **Cloud Functions**
 - **Selenium**
 
 ## Orquestación:
 - **Apache Airflow**
+- **DataForm**
+- **Cloud Composer**
 
 ## Machine Learning:
 - **Scikit-learn**
@@ -43,15 +42,19 @@ Apasionado por desarrollar pipelines de datos eficientes, automatizar procesos, 
 - **Transformers**
 - **BERT**
 
-## Bases de Datos:
+## SQL & No-SQL:
 - **PostgreSQL**
 - **SQL Server**
 - **HiveQL**
-- **BigQuery**
-- **Cloud Storage**
 - **MongoDB**
 - **MySQL**
 - **SQLite**
+
+## DataWarehouses & DataLakes:
+- **Cloud Storage**
+- **BigQuery**
+- **Snowflake**
+- **BigLake**
 
 ## Servicios de Nube:
 - **Google Cloud Platform**
@@ -59,8 +62,6 @@ Apasionado por desarrollar pipelines de datos eficientes, automatizar procesos, 
 ## Visualización de Datos:
 - **Power BI**
 - **Looker Studio**
-- **Seaborn**
-- **Matplotlib**
 - **Plotly**
 
 ## CI/CD Pipelines:
@@ -68,6 +69,8 @@ Apasionado por desarrollar pipelines de datos eficientes, automatizar procesos, 
 - **cloud build**
 - **cloud run**
 - **Github Actions**
+- **Compute Engine**
+- **IAM**
 - **Docker**
 - **Linux**
 

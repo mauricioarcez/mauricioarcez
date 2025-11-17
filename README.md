@@ -1,85 +1,59 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauricioarcez&label=Profile%20views&color=0e75b6&style=flat" alt="mauricioarcez" /> </p>
 <h1 align="center">Hola 👋, Soy Mauricio Arce</h1>
 
-<h3 align="center">Data Engineer | Data Analyst | AI Enthusiastic</h3>
-Apasionado por desarrollar pipelines de datos eficientes, automatizar procesos, optmizar al maximo las bases de datos y crear dashboards impactantes que convierten datos en decisiones estratégicas. Disfruto trabajando en transformaciones de datos y aplicando machine learning con NLP, con un enfoque en mejorar el procesamiento del texto. Explora mis repositorios para descubrir soluciones de datos, aplicaciones web dinamicas, visualizaciones estadisticas y procesamiento de lenguaje natural.
+<h3 align="center">AWS Solutions | Data Science & AI | Python </h3>
+Open Source First. in progress ..
  
 ---
 
 <h3 align="left">Tecnologias que utilizo:</h3>
 
+## AWS Solutions:
+- **Storage**
+- **Compute**
+- **Networking**
+- **Security**
+- **Databases**
+- **Serverless**
+- **AI**
+
+
 ## Lenguajes:
 - **Python**
 - **SQL**
-- **DAX**
-- **CSS**
-- **HTML**
+- **No-SQL**
+
+## Herramientas:
+- **Linux (Ubuntu, Amazon Linux)**
+- **Bash Scripting**
+- **Git**
+- **Docker**
+- **Nginx**
+- **Certbot**
 
 ## Procesamiento de datos:
-- **Pandas**
-- **PySpark**
-- **NumPy**
-- **PowerQuery**
-- **Cloud Functions**
-- **Excel**
+- PySpark
+- Pandas
+- Polars
 
 ## Scraping:
 - **BeautifulSoup**
 - **Requests**
 - **Playwright**
-- **Apis**
 - **Selenium**
 
-## Orquestación:
-- **Apache Airflow**
-- **DataForm**
-- **Cloud Composer**
-
-## Machine Learning:
-- **Scikit-learn**
-- **NLTK** 
+## Machine Learning & AI:
+- **Scikit-learn** 
 - **SpaCy**
-- **Transformers**
-- **BERT**
+- **HuggingFace**
+- **Cursor**
+- **MCP**
+- **n8n**
 
-## SQL & No-SQL:
-- **PostgreSQL**
-- **SQL Server**
-- **HiveQL**
-- **MongoDB**
-- **MySQL**
-- **SQLite**
+# Desarrollo
+- FastApi
+- Django
 
-## DataWarehouses & DataLakes:
-- **Cloud Storage**
-- **BigQuery**
-- **Snowflake**
-- **BigLake**
-
-## Servicios de Nube:
-- **Google Cloud Platform**
-
-## Visualización de Datos:
-- **Power BI**
-- **Looker Studio**
-- **Plotly**
-
-## CI/CD Pipelines:
-- **Git**
-- **cloud build**
-- **cloud run**
-- **Github Actions**
-- **Compute Engine**
-- **IAM**
-- **Docker**
-- **Linux**
-
-## Desarrollo:
-- **Django**
-- **Flask**
-- **Gunicorn**
-- **Redis**
-- **FastApi**
 
 ## Contacto
 

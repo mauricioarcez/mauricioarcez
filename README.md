@@ -2,39 +2,50 @@
 <h1 align="center">Hola 👋, Soy Mauricio Arce</h1>
 
 <h3 align="center">AWS Solutions | Data Science & AI | Python </h3>
-Open Source First. in progress ..
- 
+
+Cloud & Platform AI Engineer enfocado en AWS y sistemas de IA en producción. Experiencia construyendo y operando plataformas escalables, MCP, arquitecturas RAG multi-tenant y automatizaciones críticas, con foco en costos, observabilidad y operación early-stage. Formación en Data Science aplicada a sistemas productivos.
+
+Actualmente estoy creando [LaGangaOfertas](https://www.lagangaofertas.com)
+
 ---
 
 <h3 align="left">Tecnologias que utilizo:</h3>
 
 ## AWS Solutions:
-- **Storage**
-- **Compute**
-- **Networking**
-- **Security**
-- **Databases**
-- **Serverless**
-- **AI**
-
+**Diseño de arquitectura y desarrollos Serverless. Optimizado para tus costos con observabilidad end-to-end**
+- **Storage** - S3, EBS, EFS
+- **Compute** - EC2, ECS (Fargate), Auto Scaling, App Runner.
+- **Networking** - VPC, SG, Route tables, NAT, Subnets, Cloudfront, VPC Peering, VPN
+- **Observability** - CloudWatch (Logs, Metrics, Alarms, Dashboard)
+- **Security** - IAM, Roles-Policy, CloudTrail, WAF. 
+- **Databases** - RDS, DocumentDB, ElastiCache, DynamoDB, Aurora
+- **Serverless** Lambda, API Gateway, EventBridge.
+- **AI** - Bedrock, OpenSearch (Vector Search).
+- **Governance & Cost Control** - AWS Organizations, Billing, Cost Explorer, Budgets, Tags.
 
 ## Lenguajes:
 - **Python**
 - **SQL**
-- **No-SQL**
+- **Go**
 
-## Herramientas:
+## DevOps & IaC:
 - **Linux (Ubuntu, Amazon Linux)**
 - **Bash Scripting**
+- **AWS CDK** , **CloudFormation**, **StepFunctions**
 - **Git**
 - **Docker**
 - **Nginx**
-- **Certbot**
+- **Github Actions**
+- **Redis**
 
+## Visualizacion y observabilidad:
+- **Grafana**
+- **Power BI**
+  
 ## Procesamiento de datos:
-- PySpark
-- Pandas
-- Polars
+- **PySpark**
+- **Pandas**
+- **Polars**
 
 ## Scraping:
 - **BeautifulSoup**
@@ -46,20 +57,29 @@ Open Source First. in progress ..
 - **Scikit-learn** 
 - **SpaCy**
 - **HuggingFace**
-- **Cursor**
+- **RAG**
 - **MCP**
 - **n8n**
+- **Make**
+- **Langfuse**
 
-# Desarrollo
-- FastApi
-- Django
+## Backend & APIs
+- **FastApi**
+- **Django**
 
+## Frontend
+- **React js**
+- **Vite**
+- **Tailwind**
+
+## Databases
+- **MySQL**
+- **Postgres**
+- **SQL Server**
+- **MongoDB**
 
 ## Contacto
 
-Estoy entusiasmado por compartir mis conocimientos y experiencia en ciencia de datos. Mi objetivo es transformar y optmizar datos en decisiones significativas, y siempre estoy abierto a nuevas oportunidades y colaboraciones. Puedes revisar mis proyectos fijados aqui abajo, o en la parte de repositorios.
+Estoy entusiasmado por compartir mis conocimientos y experiencia en arquitectura y ciencia de datos. Mi objetivo es optimizar performance, automatizar tus procesos y disminuir tus costos en produccion. Estoy abierto a nuevas colaboraciones.
 
-**¡No dudes en conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/mauricioarcez/), enviarme un correo a [mauricioarcez23@gmail.com](mailto:mauricioarcez23@gmail.com) o contactarme por [Celular](+543624822158)! Juntos, podemos hacer un impacto real en el mundo de los datos.
-Visita mi [Portafolio](https://mauricioarcez.github.io/Portafolio-web/)**
-
-
+**¡No dudes en conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/mauricioarcez/), enviarme un correo a [mauricioarcez23@gmail.com](mailto:mauricioarcez23@gmail.com). Para lograr un impacto en la era de la IA.
